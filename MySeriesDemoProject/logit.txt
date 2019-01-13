@@ -1,0 +1,27 @@
+Welcom to this page...!!!
+
+This is a Demo project to finding logic of a series
+
+In this project I have been taken a series like this --->
+      
+        3 5 13 31 75 181 437 1055 2547 6149 14845 35839 86523 208885 504293 1217471......so on
+       
+To execute it I have written a programme using java language
+In my programme I used Array to store data and Scanner class to enter the number of elements you want to display---->
+
+So display my series I made a formula  ---->
+    
+              series[n] = series[n-2] + 2*series[n-1]
+              
+          where I have already taken the values series[0] = 3 and series[1] = 5.
+          
+     then I executed it using for loop.
+     
+For Example:
+  input--->  Enter how many places you want to display...?
+             20
+  output---> Series is : 3 5 13 31 75 181 437 1055 2547 6149 14845 35839 86523 208885 504293 1217471 2939235 7095941 17131117 41358175
+  
+  
+  
+  Thanks you:)
